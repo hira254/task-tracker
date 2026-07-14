@@ -37,13 +37,13 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/hira254/task-tracker.git
 ```
 
 Go to the project folder:
 
 ```bash
-cd YOUR_REPOSITORY
+cd task-tracker
 ```
 
 Install dependencies:
@@ -76,8 +76,8 @@ npm run build
 
 **Hira Zahoor Ahmed**
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add your LinkedIn profile link here
+- GitHub: https://github.com/hira
+- LinkedIn: www.linkedin.com/in/hira-zahoorahmed-ba7181316
 
 ---
 
