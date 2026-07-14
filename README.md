@@ -1,16 +1,84 @@
-# React + Vite
+# 📝 React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern Todo App built with React.js that allows users to manage daily tasks efficiently. Users can add, edit, delete, mark tasks as completed, and filter tasks based on their status.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://task-tracker-kappa-one-25.vercel.app/
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the Oxlint configuration
+- ✅ Add new tasks
+- ✏️ Edit existing tasks
+- 🗑️ Delete tasks
+- ☑️ Mark tasks as completed
+- 🔍 Filter tasks (All, Active, Completed)
+- ⚡ Fast and responsive UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🛠️ Built With
+
+- React.js
+- JavaScript (ES6+)
+- CSS3
+- Vite
+
+## 📂 Project Structure
+
+```text
+src/
+│── App.jsx
+│── App.css
+│── main.jsx
+```
+
+## 💻 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+```
+
+Go to the project folder:
+
+```bash
+cd YOUR_REPOSITORY
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+## 🎯 Future Improvements
+
+- 🌙 Dark Mode
+- 📅 Due Date
+- 🏷️ Task Categories
+- 💾 Local Storage
+- 🔍 Search Tasks
+
+## 👩‍💻 Author
+
+**Hira Zahoor Ahmed**
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: Add your LinkedIn profile link here
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
