@@ -76,7 +76,7 @@ npm run build
 
 **Hira Zahoor Ahmed**
 
-- GitHub: https://github.com/hira
+- GitHub: https://github.com/hira254
 - LinkedIn: www.linkedin.com/in/hira-zahoorahmed-ba7181316
 
 ---
